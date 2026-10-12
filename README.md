@@ -1,5 +1,16 @@
 # برنامج تنزيل فيديوهات يوتيوب
 
+## ⬇️ تنزيل البرنامج الجاهز لنظام Windows
+
+**لتحميل التطبيق دون تثبيت Python أو كتابة أوامر، افتح صفحة الإصدارات:**
+
+[تحميل أحدث إصدار من YouTube Downloader](https://github.com/adnanalqham/youtube-downloader/releases/latest)
+
+نزّل ملف `YouTubeDownloader-Windows-x64.zip`، ثم فك ضغطه وشغّل `YouTubeDownloader.exe`.
+
+> إذا لم يصدر إصدار بعد، افتح تبويب **Actions** وشغّل سير العمل **Build Windows App and Publish Release** مرة واحدة لإنشاء الإصدار الأول.
+
+
 تطبيق سطح مكتب لنظام Windows لتنزيل الفيديوهات باستخدام Python وCustomTkinter وyt-dlp.
 
 ## ✨ المميزات
